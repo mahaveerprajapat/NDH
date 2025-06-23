@@ -6,7 +6,7 @@ import { ArrowRight, Shield, Clock, Globe } from 'lucide-react';
 
 const Hero = () => {
   return (
-    <section id="home" className="relative bg-gradient-to-br from-blue-900 via-blue-800 to-blue-700 text-white overflow-hidden">
+    <section id="home" className="relative p-10 bg-gradient-to-br from-blue-900 via-blue-800 to-blue-700 text-white overflow-hidden">
       {/* Background Pattern */}
       <div className="absolute inset-0 opacity-10">
         <svg width="100%" height="100%" viewBox="0 0 100 100" className="h-full w-full">
