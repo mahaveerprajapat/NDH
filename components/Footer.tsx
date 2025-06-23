@@ -169,7 +169,7 @@ const Footer = () => {
                 Get the latest logistics insights, industry trends, and company updates delivered to your inbox.
               </p>
             </div>
-            <div className="flex gap-4">
+            <div className="flex flex-wrap gap-4">
               <input
                 type="email"
                 placeholder="Enter your email address"
